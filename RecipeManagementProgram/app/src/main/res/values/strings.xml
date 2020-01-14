@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RecipeManagementProgram</string>
+    <string name="costButton">원가표</string>
+    <string name="recipeButton">레시피</string>
+    <string name="toMain">메인으로</string>
+    <string name="nameText">재료명</string>
+    <string name="unitPriceText">단가</string>
+    <string name="weightText">중량</string>
+    <string name="pricePerGramText">단가(1g)</string>
+    <string name="insertButton">추가/수정</string>
+    <string name="addButton">추가</string>
+    <string name="updateRecipeButton">수정</string>
+    <string name="deleteRecipeButton">제거</string>
+    <string name="usageFieldTec">사용량</string>
+    <string name="priceFieldTec">금액</string>
+    <string name="prompt">전체보기</string>
+    <string name="usage">사용량</string>
+    <string name="recipeName">추가할 레시피명</string>
+    <string name="recipeAdd">레시피 저장</string>
+    <string name="totalRecipeCost">사용 재료 수 : </string>
+    <string name="totalRecipeUsage">총 사용량 : </string>
+    <string name="totalRecipePrice">총 금액 : </string>
+    <string name="location">위치</string>
+    <string name="fixName">수정할 이름</string>
+    <string name="fixOrDeleteNumber">위치</string>
+    <string name="costOutput">원가표 내보내기</string>
+    <string name="recipeOutput">레시피 내보내기</string>
+    <string name="recipeUpdate">레시피 업데이트</string>
+    <string name="saveToFile">저장할 파일 이름</string>
+    <string name="save">저장</string>
+</resources>
